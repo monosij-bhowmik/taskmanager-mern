@@ -1,0 +1,5 @@
+.task_tab {
+  border-radius: 25px;
+  background: linear-gradient(225deg, #8397bb, #9bb4df);
+  box-shadow: -20px 20px 30px #7b8fb1, 20px -20px 30px #a7c1ef;
+}
